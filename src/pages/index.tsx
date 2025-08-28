@@ -1,9 +1,5 @@
-import { HomePage } from '@/presentation/pages';
-
-
-
 function Home() {
-  return <HomePage />;
+  return <button className="btn btn-accent">Click</button>;
 }
 
 export default Home;

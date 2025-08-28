@@ -6,7 +6,7 @@ export default function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Cad Compare</title>
+        <title>Feeder Parse</title>
       </Head>
       <Component {...pageProps} />
     </>
